@@ -1,0 +1,84 @@
+@font-face {
+  font-family: blackKalameh;
+  src: url('~/assets/fonts/Kalameh\ Black.ttf');
+}
+
+@font-face {
+font-family: regKalameh;
+src: url('~/assets/fonts/Kalameh\ Regular.ttf');
+}
+
+@font-face {
+font-family: gly;
+src: url('~/assets/fonts/glyphicons-halflings-regular.ttf');
+}
+
+@font-face {
+font-family: iranSans;
+src: url('~/assets/fonts/IRANSans.ttf');
+}
+
+@font-face {
+font-family: blackIranSans;
+src: url('~/assets/fonts/IRANSans_Black.ttf');
+}
+
+@font-face {
+font-family: boldIranSans;
+src: url('~/assets/fonts/IRANSans_Bold.ttf');
+}
+
+@font-face {
+font-family: lightIranSans;
+src: url('~/assets/fonts/IRANSans_Light.ttf');
+}
+
+@font-face {
+font-family: medIranSans;
+src: url('~/assets/fonts/IRANSans_Medium.ttf');
+}
+
+@font-face {
+font-family: dnIranSans;
+src: url('~/assets/fonts/IRANSansDN.ttf');
+}
+
+* {
+  font-family: iranSans;
+}
+
+.blackKalameh {
+  font-family: blackKalameh;
+}
+
+.regKalameh {
+  font-family: regKalameh;
+}
+
+.gly {
+  font-family: gly;
+}
+
+.sans {
+  font-family: iranSans;
+}
+
+.blackSans {
+  font-family: blackIranSans;
+}
+
+.boldSans {
+  font-family: boldIranSans;
+}
+
+.lightSans {
+  font-family: lightIranSans;
+}
+
+.medSans {
+  font-family: medIranSans;
+}
+
+.dnSans {
+  font-family: dnIranSans;
+}

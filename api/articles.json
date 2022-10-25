@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "بررسی بازی alan weak",
+    "description": [
+      { "title": "مزایای بازی elden ring", "text": "لثفتضثقلفبتلثقلتثقلثقلثلبثقلتابلتا" }
+    ],
+    "image": "elden.jpg",
+    "bookmark": false
+  },
+  {
+    "id": 2,
+    "name": "بررسی بازی elden ring",
+    "description": [
+      { "title": "مزایای بازی alan weak", "text": "لثفتضثقلفبتلثقلتثقلثقلثلبثقلتابلتا" }
+    ],
+    "image": "elden.jpg",
+    "bookmark": false
+  }
+]

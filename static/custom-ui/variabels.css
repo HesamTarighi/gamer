@@ -1,0 +1,14 @@
+:root {
+  /* Colors */
+  --white1: #eef1f1;
+  --blue1: #1089FF;
+  --yellow1: #fcca01;
+  --red1: #FF1818;
+  --green1: #10bd00;
+  --gray1: #4d4848;
+
+  /* Size */
+    /* Height */
+    --articles_continer__height: 500px;
+    --footer__height: 150px;
+}

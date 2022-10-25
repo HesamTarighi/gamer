@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 0,
+    "total_price": "8,400,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 10,
+    "total_price": "7,560,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 10,
+    "total_price": "7,560,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 50,
+    "total_price": "4,200,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 50,
+    "total_price": "4,200,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 50,
+    "total_price": "4,200,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 50,
+    "total_price": "4,200,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "src": "ps42.jpg",
+    "name": "کنسول بازی تمیز کار کرد",
+    "description": "Lorem ipsum dolor sit amet, optio reiciendis...",
+    "price": "8,400,000",
+    "bookmark": false,
+    "type": ["console", "ps4"],
+    "discount": 90,
+    "total_price": "4,200,000",
+    "gallery": [
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps4.jpg",
+      "ps42.jpg"
+    ]
+  }
+]

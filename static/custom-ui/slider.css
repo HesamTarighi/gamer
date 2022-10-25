@@ -1,0 +1,15 @@
+.slider__buttons {
+  color: var(--yellow1);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 22px;
+}
+
+.slider__buttons--next {
+  right: -25px;
+}
+
+.slider__buttons--prev {
+  left: -25px;
+}

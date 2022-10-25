@@ -1,0 +1,7 @@
+.footer__size {
+  min-height: var(--footer__height);
+}
+
+.articles_continer__size {
+  min-height: var(--article_continer__height);
+}
